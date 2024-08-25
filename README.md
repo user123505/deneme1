@@ -1,2 +1,2 @@
 # deneme1
-git branch
+git branch [yeni_branch]
