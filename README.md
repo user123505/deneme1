@@ -1,2 +1,2 @@
-# deneme1
-git branch [yeni_branch]
+#include <studio.h>
+ yenileme denemesi 1
